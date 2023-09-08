@@ -1,5 +1,5 @@
 # What It This?
-  **Desktop App written in C#**
+  **Desktop App written in C#, C++. Collection of laboratory works on the subject of operating systems. Department of CAD, TSTU, Tambov**
   >*This desktop application is a collection of laboratory work on the subject of `Operating Systems'. The main tasks of the work are the study of the Win32 API, OS architecture, thread research, InterProcess Communication study, creation of the OS process scheduler emulator. Implemented in order to master the curriculum of the CAD department of TSTU (Tambov).*
 
 ## Preview
