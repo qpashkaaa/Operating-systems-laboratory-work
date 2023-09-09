@@ -5,13 +5,13 @@
 ## Preview
 ### Screenshots
 _____
-![Screenshot_1](https://github.com/qpashkaaa/Operating-systems-laboratory-work/assets/95401099/62ae8042-cc98-4aa5-9b84-9f5b365a2af8)
+![Screenshot_1](https://github.com/qpashkaaa/Operating-systems-laboratory-work/assets/95401099/b2f386ff-8514-4634-bef2-80b1a9aedd9d)
 _____
-![Screenshot_2](https://github.com/qpashkaaa/Operating-systems-laboratory-work/assets/95401099/47a7c92f-7648-46de-b8b6-d2448adb4e38)
+![Screenshot_2](https://github.com/qpashkaaa/Operating-systems-laboratory-work/assets/95401099/b15e9126-b3fc-4883-915e-a6337d1ec78f)
 _____
-![Screenshot_3](https://github.com/qpashkaaa/Operating-systems-laboratory-work/assets/95401099/c4a84bb6-ac74-434c-b343-44bf345cfc8d)
+![Screenshot__3](https://github.com/qpashkaaa/Operating-systems-laboratory-work/assets/95401099/e8505d4e-ce9a-4b7e-b7b1-5939d03a9ca4)
 _____
-![Screenshot_4](https://github.com/qpashkaaa/Operating-systems-laboratory-work/assets/95401099/df1f44db-70d4-46e4-b192-fd4fce432644)
+![Screenshot__4](https://github.com/qpashkaaa/Operating-systems-laboratory-work/assets/95401099/9866f6bb-35a1-4355-8be0-225a56515a7c)
 _____
 
 ## Short information about the works
